@@ -15,4 +15,4 @@ undocumented for now.
 Dependencies
 ------------
 
-rime, json-c, pkg-config (build-time only).
+rime(librime-dev), json-c(libjson-c-dev), pkg-config (build-time only).
